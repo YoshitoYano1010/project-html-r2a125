@@ -1,0 +1,16 @@
+table {
+  font-size: 1.2rem;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 10px;
+  text-align: center;
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+td {
+  padding: 10px;
+  border: 2px solid black;
+}
